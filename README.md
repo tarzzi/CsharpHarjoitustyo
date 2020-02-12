@@ -1,2 +1,2 @@
-# CsharpHarjoitustyo
-Ohjelma mikä toteuttaa kirjakaupan perustoimintoja, ohjelmoinnin perusteet kurssin lopputyö.
+# C# Harjoitustyo
+### Ohjelma mikä toteuttaa kirjakaupan perustoimintoja, ohjelmoinnin perusteet kurssin lopputyö.
