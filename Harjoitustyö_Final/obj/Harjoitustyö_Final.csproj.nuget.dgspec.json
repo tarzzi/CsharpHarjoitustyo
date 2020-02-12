@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\KOULU\\Ohjelmointi\\ttzc0200\\Code\\Harjoitustyö_Final\\Harjoitustyö_Final\\Harjoitustyö_Final.csproj": {}
+  },
+  "projects": {
+    "F:\\KOULU\\Ohjelmointi\\ttzc0200\\Code\\Harjoitustyö_Final\\Harjoitustyö_Final\\Harjoitustyö_Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\KOULU\\Ohjelmointi\\ttzc0200\\Code\\Harjoitustyö_Final\\Harjoitustyö_Final\\Harjoitustyö_Final.csproj",
+        "projectName": "Harjoitustyö_Final",
+        "projectPath": "F:\\KOULU\\Ohjelmointi\\ttzc0200\\Code\\Harjoitustyö_Final\\Harjoitustyö_Final\\Harjoitustyö_Final.csproj",
+        "packagesPath": "C:\\Users\\Tarzzi\\.nuget\\packages\\",
+        "outputPath": "F:\\KOULU\\Ohjelmointi\\ttzc0200\\Code\\Harjoitustyö_Final\\Harjoitustyö_Final\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tarzzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

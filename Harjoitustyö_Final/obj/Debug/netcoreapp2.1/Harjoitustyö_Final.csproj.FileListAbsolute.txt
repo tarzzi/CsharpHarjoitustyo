@@ -1,0 +1,11 @@
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\bin\Debug\netcoreapp2.1\Harjoitustyö_Final.deps.json
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\bin\Debug\netcoreapp2.1\Harjoitustyö_Final.runtimeconfig.json
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\bin\Debug\netcoreapp2.1\Harjoitustyö_Final.runtimeconfig.dev.json
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\bin\Debug\netcoreapp2.1\Harjoitustyö_Final.dll
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\bin\Debug\netcoreapp2.1\Harjoitustyö_Final.pdb
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.csprojAssemblyReference.cache
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.csproj.CoreCompileInputs.cache
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.AssemblyInfoInputs.cache
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.AssemblyInfo.cs
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.dll
+F:\KOULU\Ohjelmointi\ttzc0200\Code\Harjoitustyö_Final\Harjoitustyö_Final\obj\Debug\netcoreapp2.1\Harjoitustyö_Final.pdb
